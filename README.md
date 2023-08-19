@@ -45,13 +45,11 @@ Include Implementation of CUDA in PyTorch to leverage GPU acceleration.
 ## Insights and Observations:
 
 During the analysis, the following observations were made:
-- The simple perceptron performs well on a lightweight dataset.
 - When using the complete Yelp reviews dataset, the perceptron overfits, yielding an accuracy of 100%.
 
 ## Ongoing Improvements:
 
 The notebook continues to evolve with planned enhancements including:
-- Inclusion of code for saving vectorized data and model files.
 - Further exploration of model predictions.
 - Implementation of additional deep learning models.
 
